@@ -16,4 +16,6 @@
 # konfliktusveszély
 
 # nagyon szupi
+# mégse lesz szupi 
+
 
