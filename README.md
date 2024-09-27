@@ -10,3 +10,7 @@
 # októberi vizsga 
 # A Perfect a Legjobb
 
+# local változtatás
+
+# változás2
+
