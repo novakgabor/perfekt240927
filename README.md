@@ -22,6 +22,8 @@
 
 =======
 # még jobb
+
+# PER-6 commit
 <<<<<<< HEAD
 >>>>>>> cafaf4823a54e2714a8bddb2729761f564be6ec3
 
