@@ -4,4 +4,4 @@
 # Brigi sora
 # Szabolcs sora
 # októberi vizsga 
-
+A Perfect a Legjobb
