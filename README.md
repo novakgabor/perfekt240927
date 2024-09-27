@@ -1,3 +1,3 @@
 # perfekt240927
-# első Github első commit
-# Brigi sora
+# első Github kettő commit
+
