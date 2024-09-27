@@ -10,7 +10,7 @@
 # októberi vizsga 
 # A Perfect a Legjobb
 
-# local változtatás
+# local sghsgfh
 
 # változás2
 # konfliktusveszély
