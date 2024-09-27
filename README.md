@@ -16,4 +16,4 @@
 
 # nagyon szupi
 # még jobb
-
+# csak megoldódott
