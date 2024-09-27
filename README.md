@@ -17,5 +17,6 @@
 
 # nagyon szupi
 # mégse lesz szupi 
+# próbálkozzon mindenki hátha lesz konfliktus :D
 
 
