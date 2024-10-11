@@ -10,3 +10,4 @@
 # októberi vizsga 
 # A Perfect a Legjobb
 # új branch
+# új branch Gábor sor
