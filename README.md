@@ -9,6 +9,7 @@
 # Szabolcs sora
 # októberi vizsga 
 # A Perfect a Legjobb
+# Gábor sora
 
 # local sghsgfh
 
